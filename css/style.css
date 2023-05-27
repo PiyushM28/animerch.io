@@ -249,11 +249,11 @@ header.shadow .logo {
 
 .social .fa-brands {
     font-size: 1.4rem;
-    color: var(--text-color);
+    color: var(--second-color);
 }
 
 .social .fa-brands:hover {
-    color: var(--second-color);
+    color: var(--first-color);
     transition: 0.3s all linear;
 }
 
